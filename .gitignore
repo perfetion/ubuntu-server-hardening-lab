@@ -1,0 +1,9 @@
+# Ne jamais publier de secrets
+id_*
+*.pem
+*.key
+*.ppk
+.ssh/
+*.tar.gz
+*.log
+.env
